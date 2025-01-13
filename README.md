@@ -1,5 +1,5 @@
+<img width="1464" alt="mini" src="https://github.com/user-attachments/assets/81b9b185-31a4-4a64-83da-086a8112cb54" />
 
-![Uploading Screenshot 2025-01-14 at 2.11.23 AM.png…]()
 
 
 ## Mini Calendar
